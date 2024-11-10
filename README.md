@@ -1,14 +1,30 @@
-# Hospital Management System 
 
-<br>
+# Hospital Management System
 
-**You can watch the full presentation of our project which is mainly focused on the design of the database by clicking [here!](https://www.youtube.com/watch?v=RfWCqz8Vvac)**
+This project is a **Hospital Management System** database that provides a structured way to store and manage hospital-related data, such as patients, doctors, staff, and appointments. The project consists of SQL queries for creating and populating the database, along with images representing the system's architecture and design.
 
-<br>
+## Project Structure
 
-As a team of 5 students, we gathered a huge variety of information by researching then created a single table with some fake personas to imitate a functioning hospital. After that, we pinpointed the attributes that should be primary/secondary keys. Finally, we formed a 3NF relational database from scratch by writing the SQL queries that we wrote and run on the MySQL server.
+The project contains the following main folders:
 
-<br>
+- **img**: Contains images related to the database structure, including ER diagrams and schema designs.
+- **sql-query**: Contains SQL files for database setup, data insertion, and queries.
+
+## Features
+
+- **Patient Management**: Record and manage patient details, including personal information, medical history, and treatment records.
+- **Doctor Management**: Track doctor information, specializations, and schedules.
+- **Staff Management**: Manage staff details such as roles, shifts, and contact information.
+- **Appointment Scheduling**: Handle patient appointment scheduling with doctors.
+- **Billing and Payments**: Track billing records and manage patient payments.
+
+
+## Getting Started
+
+### Prerequisites
+
+- **Database Management System (DBMS)**: Install any SQL-compatible DBMS such as MySQL, PostgreSQL, or SQLite.
+
 
 ## The E-R Diagram of our Database
 
